@@ -22,7 +22,7 @@
 			<li>pull</li>
 			<li>push.adit02</li>
 			<li>pull</li>
-			<li>conflict.adit02</li>
+			<li>conflict.adit02.adit02_clone</li>
 		</ul>
 	</body>
 </html>
