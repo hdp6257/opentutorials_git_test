@@ -21,6 +21,7 @@
 			<li>push</li>
 			<li>pull</li>
 			<li>push.adit02</li>
+			<li>pull</li>
 		</ul>
 	</body>
 </html>
